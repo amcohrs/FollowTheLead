@@ -1,6 +1,6 @@
 FollowTheLead
 =============
-# Tired of trying to manage your site's contact forms and followups?
+## Tired of trying to manage your site's contact forms and followups?
 
 A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.
 
